@@ -1,0 +1,21 @@
+# Data — raw CSVs are auto-generated, no need to commit
+data/raw/
+data/processed/
+
+# Output plots
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
