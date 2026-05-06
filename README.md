@@ -26,7 +26,7 @@ crypto-manipulation-detector/
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/crypto-manipulation-detector.git
+git clone https://github.com/dharma0608/crypto-manipulation-detector.git
 cd crypto-manipulation-detector
 pip install -r requirements.txt
 ```
